@@ -1,6 +1,5 @@
 {
-  "plugins": ["prettier-plugin-tailwindcss"],
   "semi": false,
-  "organizeImportsSkipDestructiveCodeActions": true,
-  "tailwindFunctions": ["classNames"]
+  "tailwindFunctions": ["classNames"],
+  "plugins": ["prettier-plugin-tailwindcss"]
 }
